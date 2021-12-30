@@ -16,3 +16,5 @@ python3 main.py *.tex
 ( Všechny .tex soubory ve složce )
 
 Program má také integrovanou funkci na vytvoření kopie zpracovávaných souborů ( proměnná "copy", nastavné na False kopie nedělá, základně nastavená na False)
+
+Veškeré znaky/slova p
