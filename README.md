@@ -1,5 +1,5 @@
 # vlnka
-Aktualizovanější nezávislá verze programu Vlna 1.5 (autor: RNDr. Petra Olšáka) vytvořená v Pythonu
+Aktualizovanější nezávislá verze programu Vlna 1.5 (autor: RNDr. Petra Olšák) vytvořená v Pythonu
 
 Program Vlna (i Vlnka) mají za úkol přidat "\~" do .tex souborů před všechny české předpony a tím předejít tzv. "sirotkům", jednoznakovým předložkám/spojkám na koncích řádek. Program toto řeší vložením "\~" což vytvoří nezlomitelnou mezeru.
 
